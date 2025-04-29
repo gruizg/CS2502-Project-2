@@ -1,1 +1,1 @@
-# CS2502-Project-2
+# CS 3502 Project 2
